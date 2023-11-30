@@ -1,5 +1,5 @@
 ### About
-Using Django Channels for Real-Time chat. Also, this project has an admin chat to manage client' messages and manager/agent can reply to clients.
+Using Django Channels for Real-Time chat. Also, this project has an admin chat to manage client's messages and manager/agent can reply to clients.
 
 ### Features
 - Managing users and rooms in chat admin
